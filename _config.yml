@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 # Site Settings
 locale                   : "en-US"
 title                    : "larasras"
-title_separator          : "-"
+title_separator          : "Selamat menikmati"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Laras Rasdiyani"
 description              : "Sundanese girl"
