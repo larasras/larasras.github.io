@@ -12,22 +12,22 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "plum" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Larasras Domain"
+title                    : "larasras"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Laras Rasdiyani"
-description              : "Kisah klasik orang sok asik"
+description              : "IDK"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/logo.jpg"
+logo                     : "/logo.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
+# breadcrumbs            : false # true, false (developersfault)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Laras Rasdiyani"
-  avatar           :  "/ava.jpg"
+  avatar           : "/ava.jpg"
   bio              : "**Wilujeung Sumping**"
   location         : "Bandung, Indonesia"
   email            :
@@ -124,10 +124,10 @@ author:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://www.facebook.com/profile.php?id=100008661848686&ref=bookmarks"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/larasras"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/larasrasdiyani/"
@@ -138,9 +138,9 @@ footer:
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
     #   # url:
-    # - label: "Facebook"
-    #   icon: "fab fa-fw fa-facebook-square"
-    #   # url:
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.facebook.com/profile.php?id=100008661848686&ref=bookmarks"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/larasras"
