@@ -1,6 +1,7 @@
 ************************
 > Kesan
-	Dalam 21 hari ini lebih tepatnya 3 kali tatap muka mata kuliah proyek 1, saya merasakan definisi hari senin sesungguhnya. Karena tidak 1 detik pun pada hari senin saya lewati dengan kegabutan. Setiap jam, menit, dan detik di hari senin terasa begitu singkat .
+	Dalam 21 hari ini lebih tepatnya 3 kali tatap muka mata kuliah proyek 1, saya merasakan definisi hari senin sesungguhnya.
+	Karena tidak 1 detik pun pada hari senin saya lewati dengan kegabutan. Setiap jam, menit, dan detik di hari senin terasa begitu singkat .
 
 > Tips & Trik
 	!!!!!Sangat tidak dianjurkan untuk melamun pada mata kuliah proyek ini, karena :
