@@ -2,13 +2,13 @@
 
 
 ## Identitas
-** Nama Kelompok : Fantastic Five
-** Manager		 : Trisna Gelar Abdillah
-** Leader		 : Laras Rasdiyani      (191524016)
-** Analyst		 : Hanifah Ghina Nabila (191524010)
-** Designer 	 : Farra Jessica 		 (191524008)
-** Programmer 1  : Ali Nurdin 			 (191524004)
-** Programmer 2  : Linda Damayanti 	 (191524017)
+	* Nama Kelompok : Fantastic Five
+	* Manager		: Trisna Gelar Abdillah
+	* Leader		: Laras Rasdiyani      (191524016)
+	* Analyst		: Hanifah Ghina Nabila (191524010)
+	* Designer 	 	: Farra Jessica		   (191524008)
+	* Programmer 1  : Ali Nurdin 		   (191524004)
+	* Programmer 2  : Linda Damayanti 	   (191524017)
 
 ## Pendahuluan
 Poster pada film mempunyai fungsi sebagai media promosi dari sebuah film dan dijadikan sebagai identitas film tertentu.  Identitas dari film yang dimaksud seperti judul, sutradara, produser, pemeran, tanggal rilis, genre, dan lain sebagainya. Meskipun demikian, pada awalnya pemasangan dari sebuah poster film terbatas hanya di areal seputar bioskop saja, sehingga fungsi dari poster film sebagai media promosi terkadang tidak terealisasikan dengan sempurna. 
@@ -23,12 +23,12 @@ Dengan demikian kelompok kami memilih untuk melakukan anotasi data berjenis segm
 Sebagai leader tentu harus dapat bertanggung jawab atas tugas yang diberikan dan atas keseluruhan kelompok, maka dari itu setiap pemberian tugas yang memang mengharuskan untuk berkemompok, saya bertugas untuk berkonsultasi langsung pada manager dan melakukan pembagian tugas pada masing masing anggota kelompok. Selain itu sebagai leader saya juga bertanggung jawab untuk dapat memeriksa tugas dari seluruh role dan harus dapat menyatukan setiap role tersebut dalama satu visi, agar tujuan awal tugas tercapai.
 
 Pada pengerjaan tugas besar proyek 1 ini, saya bertugas untuk :
-[x] 1. Menentukan tugas masing - masing member
-[x] 2. Membuat repositories github
-[x] 3. Menentukan templates awal seluruh halaman website (index, about, contact us, source)
-[x] 4. Membuat bagian footer dan pop up poster pada website
-[x] 5.Melakukan segmentation pada poster film
-[ ] 6. Menambahkhan informasi pada fitur pop up, dengan hasil anotasi berupa genre film dan label film
+1. [x] Menentukan tugas masing - masing member
+2. [x] Membuat repositories github
+3. [x] Menentukan templates awal seluruh halaman website (index, about, contact us, source)
+4. [x] Membuat bagian footer dan pop up poster pada website
+5. [x] Melakukan segmentation pada poster film
+6. [ ] Menambahkhan informasi pada fitur pop up, dengan hasil anotasi berupa genre film dan label film
 
 ## Kesan
 Perihal kesan yang didapat pada setiap pengerjaan tugas, terlebih tugas besar mata kuliah proyek 1 ini, tentu sangat banyak yang didapatkan. Dimulai dari yang awalnya ragu menjadi seorang leader, karena merasa takut memikul tanggung jawab yang cukup besar untuk dapat menyatukan 5 orang dengan 5 kepala yang setiap pendapatnya berbeda. Namun seiring berjalannya waktu pendapat - pendapat dari setiap diskusi pada penugasan ternyata dapat membuat kelompok ini semakin solid.
