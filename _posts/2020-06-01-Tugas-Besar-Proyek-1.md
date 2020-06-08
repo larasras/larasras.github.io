@@ -1,14 +1,11 @@
-# Tugas Besar Proyek 1 Kelompok 5
-
-
 ## Identitas
-	* Nama Kelompok : Fantastic Five
-	* Manager		: Trisna Gelar Abdillah
-	* Leader		: Laras Rasdiyani      (191524016)
-	* Analyst		: Hanifah Ghina Nabila (191524010)
-	* Designer 	 	: Farra Jessica		   (191524008)
-	* Programmer 1  : Ali Nurdin 		   (191524004)
-	* Programmer 2  : Linda Damayanti 	   (191524017)
+* Nama Kelompok : Fantastic Five
+* Manager		: Trisna Gelar Abdillah
+* Leader		: Laras Rasdiyani      (191524016)
+* Analyst		: Hanifah Ghina Nabila (191524010)
+* Designer 	 	: Farra Jessica		   (191524008)
+* Programmer 1  : Ali Nurdin 		   (191524004)
+* Programmer 2  : Linda Damayanti 	   (191524017)
 
 ## Tugas sebagai Leader
 Sebagai leader tentu harus dapat bertanggung jawab atas tugas yang diberikan dan atas keseluruhan kelompok, maka dari itu setiap pemberian tugas yang memang mengharuskan untuk berkemompok, saya bertugas untuk berkonsultasi langsung pada manager dan melakukan pembagian tugas pada masing masing anggota kelompok. Selain itu sebagai leader saya juga bertanggung jawab untuk dapat memeriksa tugas dari seluruh role dan harus dapat menyatukan setiap role tersebut dalama satu visi, agar tujuan awal tugas tercapai.
