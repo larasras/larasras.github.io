@@ -16,7 +16,7 @@ Pada pengerjaan tugas besar proyek 1 ini, saya bertugas untuk :
 3. [x] Menentukan templates awal seluruh halaman website (index, about, contact us, source)
 4. [x] Membuat bagian footer dan pop up poster pada website
 5. [x] Melakukan segmentation pada poster film
-6. [ ] Menambahkhan informasi pada fitur pop up, dengan hasil anotasi berupa genre film dan label film
+6. [ ] Menambahkhan informasi pada fitur pop up berupa genre film
 
 ## Kesan
 Perihal kesan yang didapat pada setiap pengerjaan tugas, terlebih tugas besar mata kuliah proyek 1 ini, tentu sangat banyak yang didapatkan. Dimulai dari yang awalnya ragu menjadi seorang leader, karena merasa takut memikul tanggung jawab yang cukup besar untuk dapat menyatukan 5 orang dengan 5 kepala yang setiap pendapatnya berbeda. Namun seiring berjalannya waktu pendapat - pendapat dari setiap diskusi pada penugasan ternyata dapat membuat kelompok ini semakin solid.
