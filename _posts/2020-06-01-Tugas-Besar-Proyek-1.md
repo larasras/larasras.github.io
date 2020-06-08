@@ -10,15 +10,6 @@
 	* Programmer 1  : Ali Nurdin 		   (191524004)
 	* Programmer 2  : Linda Damayanti 	   (191524017)
 
-## Pendahuluan
-Poster pada film mempunyai fungsi sebagai media promosi dari sebuah film dan dijadikan sebagai identitas film tertentu.  Identitas dari film yang dimaksud seperti judul, sutradara, produser, pemeran, tanggal rilis, genre, dan lain sebagainya. Meskipun demikian, pada awalnya pemasangan dari sebuah poster film terbatas hanya di areal seputar bioskop saja, sehingga fungsi dari poster film sebagai media promosi terkadang tidak terealisasikan dengan sempurna. 
-
-Namun, di masa modern seperti sekarang, poster film dapat kita jumpai dimana saja. Dengan bantuan teknologi dan perkembangan sosial media pula, poster film dapat kita jumpai di berbagai platform seperti instagram, facebook, dan website khusus film.
-
-Pada website online khusus film umumnya akan menyediakan berbagai informasi dan identitas terkait film tertentu. Seperti website IMDb, IMDb adalah singkatan dari Internet Movie Database, situs yang memiliki alamat web www.imdb.com ini memuat berbagai informasi tentang film, program televisi dan video game, termasuk aktor, crew, dan karakter fiksi yang terdapat dalam tiga media hiburan visual tersebut. Saat ini Database IMDb telah diperluas untuk mencakup kategori tambahan, seperti demografis film tersebut, trivia, biografi, dan ringkasan cerita. Di dalam IMDb juga ada komunitas yang dapat berkontribusi langsung untuk menuangkan review tentang film dan memberikan rating pada film tersebut. Tidak hanya dari kaum awam, para pakar-pun juga mempunyai wadah sendiri untuk memberi rating dan menuangkan review secara profesional untuk film tersebut.
-
-Dengan demikian kelompok kami memilih untuk melakukan anotasi data berjenis segmentation dengan cara memberikan label pada segmen atau bagian kecil dari sebuah poster film yang didapat dari hasil scraping website IMDb. Pemilihan anotasi data ini bertujuan untuk mempermudah user dalam mendapatkan informasi mengenai dunia perfilman, sehingga tugas besar mata kuliah proyek 1 ini berjudul “Anotasi Data dengan Segmentation pada Website Fantastic Film”.
-
 ## Tugas sebagai Leader
 Sebagai leader tentu harus dapat bertanggung jawab atas tugas yang diberikan dan atas keseluruhan kelompok, maka dari itu setiap pemberian tugas yang memang mengharuskan untuk berkemompok, saya bertugas untuk berkonsultasi langsung pada manager dan melakukan pembagian tugas pada masing masing anggota kelompok. Selain itu sebagai leader saya juga bertanggung jawab untuk dapat memeriksa tugas dari seluruh role dan harus dapat menyatukan setiap role tersebut dalama satu visi, agar tujuan awal tugas tercapai.
 
